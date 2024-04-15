@@ -1,9 +1,18 @@
 Fixed production bug
 This is day2 devops class
 This of day3 of devops class
+<<<<<<< HEAD
 This of day4 of devops class
+=======
+This of day4 of devops classls
+Working on task2
+>>>>>>> 92e4c4856694f3f3f0940053fab869c2e6cc8d6a
 Working on task1
 working on task2 for vara
 This is task3 (demo of vara@k)send email to the dtudents when they signup in javahome website
 This task is finished and tested
+<<<<<<< HEAD
 
+=======
+This is added by Vara
+>>>>>>> 92e4c4856694f3f3f0940053fab869c2e6cc8d6a
