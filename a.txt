@@ -3,3 +3,8 @@ This is day2 devops class
 This of day3 of devops class
 This of day4 of devops classls
 Working on task2
+Working on task1
+working on task2 for vara
+This is task3 (demo of vara@k)send email to the dtudents when they signup in javahome website
+This task is finished and tested
+This is added by Vara
